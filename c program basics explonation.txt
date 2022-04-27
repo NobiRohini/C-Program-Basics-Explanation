@@ -1,0 +1,28 @@
+#include<stdio.h>
+#inclide<conio.h>
+void main()
+{
+printf("hello/n");
+getch();
+}
+Explanation about above thing
+First two lines represents that header files which mean ppd preprocesser directive
+next stdio.h which mean standard input output.header
+next conio.h which mean console input and output.header
+{ indicates starting paranthasis
+} indicates ending paranthasis
+what ever we write in printf it will apper in prompt
+; indicates the end of that statement
+printf("hello/n") in that /n indicates that it will print in new line
+now click on run
+
+
+
+
+
+
+
+
+
+
+
